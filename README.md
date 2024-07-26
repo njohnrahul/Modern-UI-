@@ -3,8 +3,6 @@ Modern UI/UX website
 🤖 Introduction
 Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
 ![image](https://github.com/user-attachments/assets/c0195d6a-3292-44e8-a232-dc767f1ec4f2)
 
 ⚙️ Tech Stack
